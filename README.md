@@ -94,12 +94,9 @@ The final menu options for ZcanMan are as follows:
 ## Contributing
 We welcome contributions to ZcanMan! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 For any questions or feedback, feel free to reach out to me at [smahechapinzon@gmail.com](mailto:smahechapinzon@gmail.com).
 
 ---
 
-Thank you for using ZcanMan! We hope it helps you enhance your network's security.
+Thank you for using ZcanMan! I hope it helps you enhance your network's security.
