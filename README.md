@@ -20,8 +20,6 @@ ZcanMan is a tool that helps you understand your network better. It combines the
 - **Modular Architecture**: Easily integrate new features and customize the tool as needed.
 - **Comprehensive Scanning**: Perform ICMP, TCP, UDP, and ARP scans.
 - **Advanced Techniques**: Use SYN and ACK scans to bypass firewalls and intrusion detection systems.
-- **User-Friendly Reports**: Get detailed reports highlighting vulnerabilities and providing actionable insights.
-- **Automated Scheduling**: Automate regular scans to continuously monitor your network's security.
 
 ## Installation
 To get started with ZcanMan, follow these steps:
@@ -90,9 +88,6 @@ The final menu options for ZcanMan are as follows:
 12. HTTP Header Evaluation
 13. OS Detection
 0. Exit
-
-## Contributing
-We welcome contributions to ZcanMan! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
 ## Contact
 For any questions or feedback, feel free to reach out to me at [smahechapinzon@gmail.com](mailto:smahechapinzon@gmail.com).
