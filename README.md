@@ -44,6 +44,8 @@ To get started with ZcanMan, follow these steps:
 ## Usage
 ZcanMan is designed to be user-friendly. After running the script, you will be presented with a menu of options. Simply select the desired scan type and follow the prompts.
 
+https://www.loom.com/share/1fccdd1cc3504d4f8ef663958bc00088?sid=041f7667-587e-41b0-ace7-04c0523c14c3
+
 ### Example
 To perform a full port scan:
 1. Run the script:
